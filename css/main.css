@@ -1,0 +1,11 @@
+body {
+   background-color: white;
+}
+.todoimg {
+    width: 100%;
+    height: 200px;
+}
+
+input:checked .list li{
+    background-color: green;
+}
